@@ -13,4 +13,4 @@ no_index:
 requires:
   Spiffy: 0
   Text::Emoticon: 0.03
-version: 0.01
+version: 0.02
